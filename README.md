@@ -13,6 +13,16 @@
 
 ---
 
+<h2 align="center">💼 Available For Work</h2>
+
+<p align="center">
+I'm open for <b>freelance projects</b>, <b>collaborations</b> and <b>new opportunities</b>.<br><br>
+<a href="mailto:contact@deniscasian.com"><img src="https://img.shields.io/badge/📩_Email_Me-8b5cf6?style=for-the-badge"/></a>
+<a href="https://contact.deniscasian.com"><img src="https://img.shields.io/badge/🌐_Contact_Form-6366f1?style=for-the-badge"/></a>
+</p>
+
+---
+
 <h2 align="center">🚀 My Platforms</h2>
 
 <table align="center">
