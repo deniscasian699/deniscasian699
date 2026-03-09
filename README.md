@@ -21,6 +21,10 @@ I'm open for <b>freelance projects</b>, <b>collaborations</b> and <b>new opportu
 <a href="https://contact.deniscasian.com"><img src="https://img.shields.io/badge/🌐_Contact_Form-6366f1?style=for-the-badge"/></a>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/🕐_Timezone-Europe%2FBucharest_(GMT%2B3)-8b5cf6?style=for-the-badge"/>
+</p>
+
 ---
 
 <h2 align="center">🚀 My Platforms</h2>
@@ -146,6 +150,8 @@ I'm open for <b>freelance projects</b>, <b>collaborations</b> and <b>new opportu
 <p align="center">
 <a href="https://deniscasian.com"><img src="https://img.shields.io/badge/Website-deniscasian.com-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://github.com/deniscasian699"><img src="https://img.shields.io/badge/GitHub-deniscasian699-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://youtube.com/@quickfactopiashorts"><img src="https://img.shields.io/youtube/channel/subscribers/UCRV5Nswh8-CURxqnvIdqDYw?style=for-the-badge&logo=youtube&color=red&label=YouTube"/></a>
+<a href="https://donate.deniscasian.com"><img src="https://img.shields.io/badge/💜_Donate-8b5cf6?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -158,6 +164,17 @@ If you find my tools useful, consider supporting me!
 
 <p align="center">
 <a href="https://donate.deniscasian.com"><img src="https://img.shields.io/badge/💜_Donate-8b5cf6?style=for-the-badge&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">⚡ Fun Facts</h2>
+
+<p align="center">
+🔹 I've built <b>200+ tools</b> and counting<br>
+🔹 My code runs on ☕ coffee and 🎵 lo-fi beats<br>
+🔹 I believe in <b>free tools for everyone</b><br>
+🔹 Currently learning: <b>React & Next.js</b>
 </p>
 
 ---
