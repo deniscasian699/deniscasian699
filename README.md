@@ -151,7 +151,6 @@ I'm open for <b>freelance projects</b>, <b>collaborations</b> and <b>new opportu
 <a href="https://deniscasian.com"><img src="https://img.shields.io/badge/Website-deniscasian.com-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://github.com/deniscasian699"><img src="https://img.shields.io/badge/GitHub-deniscasian699-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://youtube.com/@quickfactopiashorts"><img src="https://img.shields.io/youtube/channel/subscribers/UCRV5Nswh8-CURxqnvIdqDYw?style=for-the-badge&logo=youtube&color=red&label=YouTube"/></a>
-<a href="https://donate.deniscasian.com"><img src="https://img.shields.io/badge/💜_Donate-8b5cf6?style=for-the-badge"/></a>
 </p>
 
 ---
