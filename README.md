@@ -131,12 +131,12 @@ I'm open for <b>freelance projects</b>, <b>collaborations</b> and <b>new opportu
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deniscasian699&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=deniscasian699&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6" height="165"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscasian699&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9"/>
+
+
 </p>
 
 ---
@@ -146,6 +146,18 @@ I'm open for <b>freelance projects</b>, <b>collaborations</b> and <b>new opportu
 <p align="center">
 <a href="https://deniscasian.com"><img src="https://img.shields.io/badge/Website-deniscasian.com-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://github.com/deniscasian699"><img src="https://img.shields.io/badge/GitHub-deniscasian699-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">💜 Support My Work</h2>
+
+<p align="center">
+If you find my tools useful, consider supporting me!
+</p>
+
+<p align="center">
+<a href="https://donate.deniscasian.com"><img src="https://img.shields.io/badge/💜_Donate-8b5cf6?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ---
