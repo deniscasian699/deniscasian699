@@ -168,7 +168,7 @@ I'm open for <b>freelance projects</b>, <b>collaborations</b> and <b>new opportu
     <td align="center" width="50%">
       <h3>🔳 QR Code Generator</h3>
 <a href="https://qr.deniscasian.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:9333ea&height=80&text=🔳%20QR%20Code%20Generator%20•%20Custom%20and%20Free&fontSize=16&fontColor=ffffff" width="400" alt="QR Gen"/>
+        <img src="https://img.shields.io/badge/▶_LIVE_DEMO-a855f7?style=for-the-badge&logoColor=white" alt="Visit Tools"/>
 </a>
       <br><br>
       <b>Custom QR codes</b> with colors, logos, multiple formats & instant download.
